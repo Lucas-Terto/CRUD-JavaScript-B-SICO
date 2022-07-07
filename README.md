@@ -1,1 +1,1 @@
-# CRUD-JavaScript-B-SICO
+# CRUD-JavaScript-BASICO
